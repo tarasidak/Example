@@ -1,0 +1,79 @@
+body{
+    background-image: url("../img/bottle.jpg"); 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;  
+    background-size: cover;
+    opacity: 0.9;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+nav{
+  
+}
+nav a{
+}
+.about-company{
+    padding:150px 0 250px 0;
+}
+.about{
+    font-size: 60px;
+    font-family:  Arial, Helvetica, sans-serif;
+}
+.about-us{
+    padding-bottom:150px;
+    color: white;
+}
+#mask {
+    background-color:rgba(0,0,0,.6);
+    height:100%;
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+}
+h1.about{
+    font-style: italic;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h2{
+    font-size: 50px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    color:white;
+}
+h2.company{
+    font-style: italic;
+}
+.catalog a{
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+}
+.catalog a:hover {
+    background:rgba(255,255,255, 0.2);
+    text-decoration: none;
+}
+p.info {
+    text-align: justify;
+}
+p.contact{
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+}
+p.contact a:hover {
+    background:rgba(255,255,255, 0.2);
+    text-decoration: none;
+    color: white;
+}
+.clients{
+    padding-bottom: 150px;
+}
+
+
+
+
+
