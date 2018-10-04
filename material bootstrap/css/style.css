@@ -1,0 +1,16 @@
+html, body, header, #intro {
+    height: 100%;
+}
+#intro{
+    background: url(../img/forest.jpg) no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+}
+.top-nav-collapse{
+    background-color: #24355C;
+}
+@media(max-width:768px){
+    .navbar:not(.top-nav-collapse){
+        background: #24355C;
+    }
+}
